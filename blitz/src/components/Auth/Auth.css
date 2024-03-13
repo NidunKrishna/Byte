@@ -1,0 +1,33 @@
+/* LearnerLogin.css */
+
+.learner-login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image:url('https://media.istockphoto.com/id/1180554313/vector/tangle-tangled-and-unraveled-abstract-metaphor.jpg?s=612x612&w=0&k=20&c=CeTrPB1y_gWV3iLXStpozTvphWYvocayvc50wi2JMDY='); 
+
+  }
+  
+  .learner-login-form {
+    background-color: #C0C0C0; 
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    height: 60vh;
+    width: 80vh;
+  }
+  
+  .learner-login-form h1 {
+    color: #002847; 
+    font-size: 36px;
+    margin-bottom: 60px;
+    font-family: system-ui;
+  }
+  .learner-login-form label{
+    margin-right: 10px;
+  }
+  
+
+  
